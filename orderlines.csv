@@ -1,0 +1,13 @@
+Count of id_order,Column Labels,,
+Row Labels,2017,2018,Grand Total
+Shopping Basket,119028,50364,169392
+Qtr1,23578,50364,73942
+Qtr2,17546,,17546
+Qtr3,21451,,21451
+Qtr4,56453,,56453
+Place Order,27926,6524,34450
+Cancelled,7212,1878,9090
+Pending,16254,2460,18714
+Completed,48916,13187,62103
+0,224,10,234
+Grand Total,219560,74423,293983
