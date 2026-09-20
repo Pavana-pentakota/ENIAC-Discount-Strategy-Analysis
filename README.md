@@ -3,8 +3,8 @@
 Analysis of Eniac's discounting, seasonality, and product pricing — Python (pandas, seaborn) analysis and recommendations on discount depth, category mix, and campaign timing
 
 > 📌 **Part 2.** This project continues from **Phase 1: ENIAC Brazilian expansion with Magist**
-> - [GitHub repository](PHASE-1-GITHUB-REPO-LINK)
-> - [Confluence](https://pentakotapavanakumari.atlassian.net/wiki/spaces/MBC1/overview?homepageId=4292803).
+> - [[GitHub repository](PHASE-1-GITHUB-REPO-LINK)](https://github.com/Pavana-pentakota/ENIAC-Brazilian-expansion_with-Magist)
+> - [[Confluence](https://pentakotapavanakumari.atlassian.net/wiki/spaces/MBC1/overview?homepageId=4292803).](https://pentakotapavanakumari.atlassian.net/wiki/spaces/MBC1/overview?homepageId=4292803)
 > - Phase 1 asked *where and how to sell*. Phase 2 asks *how to price and promote*.
 
 **Full project documentation:** [View on Confluence](PHASE-2-CONFLUENCE-LINK)
@@ -58,11 +58,11 @@ Analysis of Eniac's discounting, seasonality, and product pricing — Python (pa
 
 ## Visualisations
 
-![Discounted vs non-discounted products](screenshots/discounted_products.png)
-![Distribution of discount size](screenshots/discount_distribution.png)
-![Monthly revenue with seasonal peaks](screenshots/monthly_revenue_seasonality.png)
-![Top 15 product categories](screenshots/top_categories.png)
-![Price distribution by category](screenshots/price_by_category.png)
+- ![Discounted vs non-discounted products](screenshots/discounted_products.png)
+- ![Distribution of discount size](screenshots/discount_distribution.png)
+- ![Monthly revenue with seasonal peaks](screenshots/monthly_revenue_seasonality.png)
+- ![Top 15 product categories](screenshots/top_categories.png)
+- ![Price distribution by category](screenshots/price_by_category.png)
 
 ## Tools Used
 
