@@ -115,7 +115,7 @@ The analysis above shows *how much* to discount and *when*. The natural next que
 - Phase 2 recommends a more disciplined discount strategy: capped discounts and campaigns planned around the calendar. The "SEE DEALS" versus "SHOP NOW" wording tests whether promotion-focused messaging drives more engagement than neutral messaging, and the colour comparison tests whether button design matters.
 - Together, the two analyses connect pricing decisions (how much and when) with customer behaviour (how they respond).
 
-**Continued in the A/B testing project:** [GitHub repository](AB-TESTING-REPO-LINK) 
+**Continued in the A/B testing project:** https://github.com/Pavana-pentakota/Eniac-A-B-Testing 
 
 ## Author
 Pavana Pentakota | www.linkedin.com/in/pavanapentakota
